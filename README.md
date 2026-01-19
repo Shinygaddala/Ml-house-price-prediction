@@ -97,6 +97,13 @@ To run the Streamlit app:streamlit run streamlit_app.py
 
 ---
 
+#Output Image
+
+![House Price Prediction App](images/image.jpeg)
+
+
+---
+
 ## 👩‍💻 Author
 **Gaddala Shiny**  
 B.Tech – Artificial Intelligence & Data Science
